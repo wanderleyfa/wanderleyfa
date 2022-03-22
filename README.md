@@ -24,7 +24,7 @@ I'm a PHP Developer, passionate about my profession, a very happy husband and fa
 
 #### Business Analyst / PHP Developer at WanderleyFA.COM
 
-I'm n a new challenge at this moment is remote work in a Supplementary Pension Fund, I can dedicate myself to learn more about how to digitize business processes, using tools and programming languages.
+I'm in a new challenge at this moment is remote work in a Supplementary Pension Fund, I can dedicate myself to learn more about how to digitize business processes, using tools and programming languages.
 In this project in addition to working with an incredible team, I am having the opportunity to improve my business analysis and task management skills.
 In the project I am using Bitrix24 as the connection point between the physical processes and their digital counterparts, and in my particular, I use PHP as a language to develop the Bitrix24 can't do.
 
