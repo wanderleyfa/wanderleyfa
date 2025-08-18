@@ -13,7 +13,7 @@ Passionate about **building scalable, secure, and high-performance systems** whi
 ---
 
 ## 🛠️ Tech Stack  
-- **Backend:** PHP (Laravel, CakePHP, Slim, Zend/Laminas), Node.js  
+- **Backend:** PHP (Laravel, CakePHP, Slim), Node.js  
 - **Frontend:** ReactJS, Next.js, Vue.js, Vanilla JS  
 - **DevOps & Cloud:** Docker, OpenShift, GitLab CI/CD, GitHub Actions, Bamboo, Azure DevOps  
 - **Databases:** MySQL, PostgreSQL  
