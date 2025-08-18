@@ -1,29 +1,52 @@
-### Hi there 👋
+# 👋 Hi there, I'm Wanderley Albuquerque  
 
-<!--
-**wanderleyfa/wanderleyfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend PHP Developer | Full Stack Engineer**  
+🌍 Based in Brasília, Brazil | Open to International Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m a software developer with over **15 years of experience** designing, building, and scaling web applications.  
+My expertise spans **backend development, API design, DevOps practices, and modern frontend frameworks**.  
+Passionate about **building scalable, secure, and high-performance systems** while working in dynamic and multicultural environments.  
 
-# Wanderley Ferreira de Albuquerque
-## PHP Developer
+---
 
-I'm a PHP Developer, passionate about my profession, a very happy husband and father, and above all a curious person who loves to read, play video games and do outdoor activities (when this is possible). I am constantly learning and evolving and I try to apply this to my daily life, and especially to my work. 
+## 🛠️ Tech Stack  
+- **Backend:** PHP (Laravel, CakePHP, Slim, Zend/Laminas), Node.js  
+- **Frontend:** ReactJS, Next.js, Vue.js, Vanilla JS  
+- **DevOps & Cloud:** Docker, OpenShift, GitLab CI/CD, GitHub Actions, Bamboo, Azure DevOps  
+- **Databases:** MySQL, PostgreSQL  
+- **APIs & Security:** RESTful APIs, OAuth2, JWT, Swagger  
+- **Agile:** Scrum, Kanban  
 
+---
 
+## 🌟 Featured Projects  
+🔹 [**wanderleyfa.com**](http://wanderleyfa.com) – Personal website & portfolio.  
+🔹 **API Ecosystems** – Designed and implemented enterprise-grade APIs reducing integration time by 40%.  
+🔹 **Microservices Migration** – Led migration from monoliths to containerized microservices, improving scalability and deployment speed.  
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kibum.png](https://www.instagram.com/wanderleyfa)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderleyfa/?locale=en_US) 
+*(More projects available in my repositories 👇)*  
+
+---
+
+## 📊 GitHub Stats  
+![Wanderley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanderleyfa&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderleyfa&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Let’s Connect  
+- 🌐 [wanderleyfa.com](http://wanderleyfa.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/wanderleyfa)  
+- 📧 wanderleyfa@gmail.com  
+
+---
+
+✨ *“Code is not just about solving problems — it’s about creating solutions that last.”*  
+
 
 
 “By failing to prepare, you are preparing to fail.”-  Benjamin Franklin
