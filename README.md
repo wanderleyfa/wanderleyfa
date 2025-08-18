@@ -24,10 +24,16 @@ Passionate about **building scalable, secure, and high-performance systems** whi
 
 ## 🌟 Featured Projects  
 🔹 [**wanderleyfa.com**](http://wanderleyfa.com) – Personal website & portfolio.  
+
+🔹 [**Tayrone Oliveira Official Website**](https://www.tayroneoliveiraoficial.com.br) –  
+Built with **Next.js** and integrated with the **YouTube Data API** to deliver dynamic content such as music videos, playlists, and live updates.  
+Implemented SEO optimization, server-side rendering, and responsive design to ensure performance and visibility.  
+
 🔹 **API Ecosystems** – Designed and implemented enterprise-grade APIs reducing integration time by 40%.  
+
 🔹 **Microservices Migration** – Led migration from monoliths to containerized microservices, improving scalability and deployment speed.  
 
-*(More projects available in my repositories 👇)*  
+*(More projects available in my repositories 👇)* 
 
 ---
 
