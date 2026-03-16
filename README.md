@@ -6,9 +6,11 @@
 ---
 
 ## 🚀 About Me  
-I’m a software developer with over **15 years of experience** designing, building, and scaling web applications.  
-My expertise spans **backend development, API design, DevOps practices, and modern frontend frameworks**.  
-Passionate about **building scalable, secure, and high-performance systems** while working in dynamic and multicultural environments.  
+With over ***15 years*** of experience as a Full Stack Developer, I build modern, scalable, and performance-focused web solutions. I have a strong background in the JavaScript/TypeScript ecosystem (Node.js, React, Next.js, Prisma), as well as a solid background in PHP development and its main frameworks (Laravel, CakePHP, Slim).
+
+At Wanderleyfa.com, I lead the development of robust RESTful APIs, complex integrations with third-party services, and internal management systems, always prioritizing clean architecture and good software engineering practices.
+
+My work goes beyond code: I manage infrastructure and automation with Docker and OpenShift, and implement CI/CD pipelines to ensure continuous and secure deliveries. I am passionate about creating tools that optimize daily work—such as the @context-optimizer extension I developed for VS Code. My constant goal is to align technological innovation with efficiency and real business value.
 
 ---
 
